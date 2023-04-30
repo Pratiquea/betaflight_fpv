@@ -23,6 +23,9 @@ In the ports tab of Betaflight configurator:
 
 ### Configure Video Transmitter settings
 Notes for VTX and AKK DVR: The DVR supports **TBS SmartAudio V2.0** protocol
+
+![VTX config](https://github.com/Pratiquea/betaflight_fpv/blob/main/video_transmitter.png)
+
 Follow the setup in [this youtube video.](https://www.youtube.com/watch?v=eaSmoOPk9KY&t=1s)
 
 [Betaflight VTX-Tables github link](https://betaflight.com/docs/wiki/archive/VTX-Tables)
