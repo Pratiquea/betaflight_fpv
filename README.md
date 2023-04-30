@@ -8,7 +8,7 @@ both Px4 and ardupilot have an error message "no cpu load information" which fai
 ### Configure Ports
 Note: All the connections referred here are for Holybro KakuteF7 flight controller. Betaflight version is 4.4.1.
 
-![Port config image](/D/FPV/ports.png)
+![Port config image](https://github.com/Pratiquea/betaflight_fpv/blob/main/ports.png)
 
 Hardware connections:
 
